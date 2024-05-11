@@ -52,6 +52,7 @@ int main() {
         default:
             cout << "Error" << endl;
 			cout << endl;
+			break;
         }
     }
 
